@@ -1,7 +1,7 @@
 // ════════════════════════════════════════════════════════════
 //  SYSTÈME AUDIO — son.js
 //  Musique (MP3) + effets Web Audio API
-//  Sons de guerre : lourds, brefs, expressifs
+
 // ════════════════════════════════════════════════════════════
 
 var SON = {
